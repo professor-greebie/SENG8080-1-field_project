@@ -1,4 +1,7 @@
-## SENG8080
+# SENG8080
 
-## Contributers 
-1. Sumukh Dhawade
+
+## Contributors
+1. Vishal Barvaliya
+2. Sumukh Dhawade
+
