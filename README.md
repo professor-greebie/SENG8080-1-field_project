@@ -7,3 +7,8 @@
 3. Sindhu Parkavi Sivakumar
 4. Kevin Jacob Mathew
 5. Amandeep Amandeep
+6. Lakshay Soni
+7. Jose Jaramillo
+8. Jeevan Preet Saini
+
+
