@@ -4,12 +4,12 @@
 2. Sumukh Dhawade
 3. Sindhu Parkavi Sivakumar
 4. Kevin Jacob Mathew
-5. Garima Sharma
-6. Jeevan Preet Saini
-7. Lakshay Soni
-8. Jose Jaramillo
+5. Lakshay Soni
+6. Jose Jaramillo
+7. Jeevan Preet Saini
+8. Yusra Khan :)
 9. Mansi Trivedi
-10. Lakshay Soni
-11. Mansi Trivedi
-12. Amandeep Amandeep
+10. Amandeep Amandeep
+11. Garima Sharma
+
 
