@@ -1,6 +1,4 @@
 # SENG8080
-
-
 ## Contributors
 1. Vishal Barvaliya
 2. Sumukh Dhawade
@@ -12,4 +10,6 @@
 8. Yusra Khan :)
 9. Mansi Trivedi
 10. Amandeep Amandeep
+11. Garima Sharma
+
 
