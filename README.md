@@ -1,6 +1,4 @@
 # SENG8080
-
-
 ## Contributors
 1. Vishal Barvaliya
 2. Sumukh Dhawade
@@ -11,4 +9,7 @@
 7. Lakshay Soni
 8. Jose Jaramillo
 9. Mansi Trivedi
+10. Lakshay Soni
+11. Mansi Trivedi
+12. Amandeep Amandeep
 
