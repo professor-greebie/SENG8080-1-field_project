@@ -16,4 +16,4 @@ SENG8080
 13. Nisha Kathiriya
 14. Arman Fidaulla Sharief
 15. Kriti Thamman
-16. 5. Hareesh Varatharaj
+16. Hareesh Varatharaj
