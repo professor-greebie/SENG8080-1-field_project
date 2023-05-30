@@ -7,9 +7,10 @@
 5. Lakshay Soni
 6. Jose Jaramillo
 7. Jeevan Preet Saini
-8. Yusra Khan :)
-9. Mansi Trivedi
+8. Mansi Trivedi
+9. Amandeep Amandeep
 10. Amandeep Amandeep
 11. Garima Sharma
+12. Mukesh Yarlagadda
 
 
