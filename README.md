@@ -10,9 +10,10 @@ SENG8080
 7. Jeevan Preet Saini
 8. Mansi Trivedi
 9. Amandeep Amandeep
-10. Amandeep Amandeep
+10. Yusra Khan:)
 11. Garima Sharma
 12. Mukesh Yarlagadda
 13. Nisha Kathiriya
 14. Arman Fidaulla Sharief
 15. Kriti Thamman
+16. Hareesh Varatharaj
