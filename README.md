@@ -22,4 +22,3 @@ SENG8080
 19. Darshan Lunagariya
 20. Karan Sorathiya
 21. Prashant Thakkar
-22. Roopesh Votarikari :)
