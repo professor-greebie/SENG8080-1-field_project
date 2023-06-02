@@ -23,8 +23,9 @@ SENG8080
 20. Karan Sorathiya
 21. Prashant Thakkar
 22. Roopesh Votarikari
-23. Pradeep Gahlawat
-24. Mrunal Wavdhane
-25. Sree Kodavanti
-26. Zarana Gohil
+23. Chandan Sulimalthe Sannappa
+24. Pradeep Gahlawat
+25. Mrunal Wavdhane
+26. Sree Kodavanti
+27. Zarana Gohil
 
