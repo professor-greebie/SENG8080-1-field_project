@@ -19,6 +19,8 @@ classDiagram
   Mammal <|-- Dog
   Mammal <|-- Human
   Mammal <|-- Cat
-  Human --> Cat
+  Human --> Cat : pets
+  Dog --> Cat : barks at
+  note "dogs don't like cats"
 
 ```
