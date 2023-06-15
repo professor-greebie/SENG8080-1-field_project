@@ -29,3 +29,22 @@ SENG8080
 26. Sree Kodavanti
 27. Zarana Gohil
 28. Karan Patel
+
+## data Collection using PowerShell script
+
+## Prerequisite
+1. Install 7zip
+2. Install AWS CLI
+
+## To Run the file
+1. Use power shell
+2. Navigate to your file folder
+3. use command  .\Data_Collection_From_AWS_S3.ps1 to run the file
+
+## Script Explanation
+
+1. It Creates a folder 'genome_browser', if it doesn't exist
+2. Collects all the objects under the aws s3 folder and store them in the object field
+3. Iterate through the objects one by one and download them from aws s3 to the local folder
+4. Get all the .gz files from the local folder
+5. Iterate through all the .gz files and unzip them in the destination folder using 7zip commands
