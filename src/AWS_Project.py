@@ -2,10 +2,15 @@ import subprocess
 import json
 import os
 import gzip
+import sys
 
 bucket_name = "genome-browser"
 s3_folder_key = "goldenPath/wuhCor1/bigZips"
-local_folder = "C:/genome-browser/"
+
+if len(sys.argv) >= 2:
+    local_folder = sys.argv[1]
+else:
+    local_folder = "C:/genome-browser/"
 
 # Create the local folder if it doesn't exist
 if not os.path.exists(local_folder):
