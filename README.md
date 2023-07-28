@@ -30,6 +30,10 @@ SENG8080
 27. Zarana Gohil
 28. Karan Patel
 
+## data collection using Python script 
+
+data_collection_from_s3.py - This script can be used to retrieve the data and unzip the files recursively through all the folders.
+
 ## data Collection using PowerShell script
 
 ## Prerequisite
@@ -43,7 +47,7 @@ SENG8080
 
 ## Script Explanation
 
-1. It Creates a folder 'genome_browser', if it doesn't exist
+1. It Creates a folder 'genome_browser' if it doesn't exist
 2. Collects all the objects under the aws s3 folder and store them in the object field
 3. Iterate through the objects one by one and download them from aws s3 to the local folder
 4. Get all the .gz files from the local folder
