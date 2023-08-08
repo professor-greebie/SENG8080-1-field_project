@@ -1,4 +1,4 @@
-#For Visualization Team
+# For Visualization Team
 
 ## Steps:
 1. Download the GenomeCleanData.csv file located inside the Clean_Data Folder.
