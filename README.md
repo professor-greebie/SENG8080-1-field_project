@@ -53,9 +53,9 @@ data_collection_from_s3.py - This script can be used to retrieve the data and un
 4. Get all the .gz files from the local folder
 5. Iterate through all the .gz files and unzip them in the destination folder using 7zip commands
 
-## Data Quality Team
+# Data Quality Team
 
-# Steps performed
+## Steps performed
 1. Collected the data from AWS S3.
 2. Changed the genome file format to .csv
 3. Genome.fa file have the genome data while the ncbiGenes.gtf file has the Genome File Format.
