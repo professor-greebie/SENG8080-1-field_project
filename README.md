@@ -29,6 +29,7 @@ SENG8080
 26. Sree Kodavanti
 27. Zarana Gohil
 28. Karan Patel
+29. Harshal Parmar
 
 ## data collection using Python script 
 
