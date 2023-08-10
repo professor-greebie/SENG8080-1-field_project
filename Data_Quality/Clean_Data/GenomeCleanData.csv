@@ -1,4 +1,4 @@
-﻿SeqName,Source,Feature,Start,End ,Score,Strand,Frame ,Attribute ,Genome String
+﻿SeqName,Source,Feature,Start,End,Score,Strand,Frame ,Attribute ,Genome String
 NC_045512v2,ncbiGenes.genePred,transcript,266,13483,.,+,.,"gene_id ""ORF1a""; transcript_id ""ORF1a""; ","TAAGATGGAGAGCCTTGTCCCTGGTTTCAACGAGAAAAC
 ACACGTCCAACTCAGTTTGCCTGTTTTACAGGTTCGCGACGTGCTCGTAC
 GTGGCTTTGGAGACTCCGTGGAGGAGGTCTTATCAGAGGCACGTCAACAT
