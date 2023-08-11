@@ -64,3 +64,9 @@ data_collection_from_s3.py - This script can be used to retrieve the data and un
 5. This column has the genome string from start and end for each row.
 6. Created the GenomeCleanData.csv file and locate it inside the Clean_Data folder.
 
+# Data Storage and Maintainance Team
+
+1. Python script created and provided in "Data Storage and Maintainance" directory
+2. Also, Added the ReadMe file in the same folder to guide the Devops team on performing the whole task.
+3. Created PR by creating new branch from Main and asked for a review to Professor as there is no other members in my team.
+4. If you need anything from me just create an issue by tagging me.
