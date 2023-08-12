@@ -21,7 +21,8 @@ def store_csv_data_in_mongo(csv_file_path, db_name, collection_name, mongo_uri='
 
     finally:
         # Close the MongoDB connection
-        client.close()
+        if client:    #To ensure that the MongoDB connection is closed only if it was successfully established in the first place
+            client.close()
 
 # Provide the necessary inputs
 csv_file_path = 'path/to/your/csv/file.csv' #replace it with your path
